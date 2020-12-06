@@ -1,0 +1,28 @@
+.header{
+	min-height: 100px;
+	background-color: #ff7979;
+	text-align: center;
+	
+}
+#wrapper{
+	overflow: hidden;
+}
+.left{
+	background-color: #535c68;
+	min-height: 400px;
+	float: left;
+	width: 50%;
+}
+.right{
+	background-color: #c7ecee;
+	min-height: 400px;
+	float: right;
+	width: 50%;
+}
+.footer-bootom{
+	min-height: 100px;
+	background-color: #30336b;
+	text-align: center;
+
+}
+
