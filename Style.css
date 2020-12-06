@@ -17,7 +17,7 @@
 	background-color: #535c68;
 	min-height: 400px;
 	float: left;
-	width: 50%;
+	width: 70%;
 	color: white;
 	display : flex;
   	align-items : center;
@@ -29,7 +29,7 @@
 	background-color: #c7ecee;
 	min-height: 400px;
 	float: right;
-	width: 50%;
+	width: 30%;
 	color: white;
 	display : flex;
   	align-items : center;
